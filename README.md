@@ -1,10 +1,10 @@
 ### Things about me
 
-📍 Lives in Jakarta, Indonesia.  
-🧑‍💻 Working at [humanmade](https://github.com/humanmade/).  
-🕸 GDE in Web Technology.  
-❤️ Contribute to WordPress and #id_ID Polyglot Locale Manager.  
-📬 Find me on Twitter [ivankrisdotcom](https://twitter.com/ivankrisdotcom).  
+📍 Lives in Jakarta  
+🧑‍💻 Working at [humanmade](https://github.com/humanmade/)  
+🕸 GDE in Web Technology  
+❤️ Contribute to WordPress and #id_ID Polyglot Locale Manager  
+📬 Find me on Twitter [ivankrisdotcom](https://twitter.com/ivankrisdotcom)  
 🌱 I’m currently learning TensorFlow and Automation with Raspberry Pi
 
 <!--
