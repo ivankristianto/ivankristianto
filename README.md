@@ -5,7 +5,7 @@
 🕸 GDE in Web Technology  
 ❤️ Contribute to WordPress and #id_ID Polyglot Locale Manager  
 📬 Find me on Twitter [ivankrisdotcom](https://twitter.com/ivankrisdotcom)  
-🌱 I’m currently learning TensorFlow and Automation with Raspberry Pi
+🌱 Learning Site Performance Audit and Web API
 
 <!--
 **ivankristianto/ivankristianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
